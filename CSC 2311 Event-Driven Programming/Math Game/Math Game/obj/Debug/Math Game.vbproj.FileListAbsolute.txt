@@ -1,0 +1,12 @@
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Math Game\Math Game\bin\Debug\Math Game.exe.config
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Math Game\Math Game\bin\Debug\Math Game.exe
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Math Game\Math Game\bin\Debug\Math Game.pdb
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Math Game\Math Game\bin\Debug\Math Game.xml
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Math Game\Math Game\obj\Debug\Math Game.vbprojAssemblyReference.cache
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Math Game\Math Game\obj\Debug\Math_Game.frmMathGame.resources
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Math Game\Math Game\obj\Debug\Math_Game.Resources.resources
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Math Game\Math Game\obj\Debug\Math Game.vbproj.GenerateResource.cache
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Math Game\Math Game\obj\Debug\Math Game.vbproj.CoreCompileInputs.cache
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Math Game\Math Game\obj\Debug\Math Game.exe
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Math Game\Math Game\obj\Debug\Math Game.xml
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Math Game\Math Game\obj\Debug\Math Game.pdb

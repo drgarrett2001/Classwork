@@ -1,0 +1,9 @@
+C:\Users\kahlerke\Desktop\DogClass\DogClass\bin\Debug\DogClass.dll
+C:\Users\kahlerke\Desktop\DogClass\DogClass\bin\Debug\DogClass.pdb
+C:\Users\kahlerke\Desktop\DogClass\DogClass\bin\Debug\DogClass.xml
+C:\Users\kahlerke\Desktop\DogClass\DogClass\obj\Debug\DogClass.vbprojResolveAssemblyReference.cache
+C:\Users\kahlerke\Desktop\DogClass\DogClass\obj\Debug\DogClass.Resources.resources
+C:\Users\kahlerke\Desktop\DogClass\DogClass\obj\Debug\DogClass.vbproj.GenerateResource.Cache
+C:\Users\kahlerke\Desktop\DogClass\DogClass\obj\Debug\DogClass.dll
+C:\Users\kahlerke\Desktop\DogClass\DogClass\obj\Debug\DogClass.xml
+C:\Users\kahlerke\Desktop\DogClass\DogClass\obj\Debug\DogClass.pdb

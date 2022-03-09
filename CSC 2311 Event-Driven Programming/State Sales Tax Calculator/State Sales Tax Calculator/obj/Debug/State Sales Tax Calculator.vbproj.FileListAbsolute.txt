@@ -1,0 +1,12 @@
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\State Sales Tax Calculator\State Sales Tax Calculator\bin\Debug\State Sales Tax Calculator.exe.config
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\State Sales Tax Calculator\State Sales Tax Calculator\bin\Debug\State Sales Tax Calculator.exe
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\State Sales Tax Calculator\State Sales Tax Calculator\bin\Debug\State Sales Tax Calculator.pdb
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\State Sales Tax Calculator\State Sales Tax Calculator\bin\Debug\State Sales Tax Calculator.xml
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\State Sales Tax Calculator\State Sales Tax Calculator\obj\Debug\State Sales Tax Calculator.vbprojAssemblyReference.cache
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\State Sales Tax Calculator\State Sales Tax Calculator\obj\Debug\State_Sales_Tax_Calculator.frmSSTC.resources
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\State Sales Tax Calculator\State Sales Tax Calculator\obj\Debug\State_Sales_Tax_Calculator.Resources.resources
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\State Sales Tax Calculator\State Sales Tax Calculator\obj\Debug\State Sales Tax Calculator.vbproj.GenerateResource.cache
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\State Sales Tax Calculator\State Sales Tax Calculator\obj\Debug\State Sales Tax Calculator.vbproj.CoreCompileInputs.cache
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\State Sales Tax Calculator\State Sales Tax Calculator\obj\Debug\State Sales Tax Calculator.exe
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\State Sales Tax Calculator\State Sales Tax Calculator\obj\Debug\State Sales Tax Calculator.xml
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\State Sales Tax Calculator\State Sales Tax Calculator\obj\Debug\State Sales Tax Calculator.pdb

@@ -1,0 +1,12 @@
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Kuidditch Referee Fee Kalculator\Kuidditch Referee Fee Kalculator\bin\Debug\Kuidditch Referee Fee Kalculator.exe.config
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Kuidditch Referee Fee Kalculator\Kuidditch Referee Fee Kalculator\bin\Debug\Kuidditch Referee Fee Kalculator.exe
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Kuidditch Referee Fee Kalculator\Kuidditch Referee Fee Kalculator\bin\Debug\Kuidditch Referee Fee Kalculator.pdb
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Kuidditch Referee Fee Kalculator\Kuidditch Referee Fee Kalculator\bin\Debug\Kuidditch Referee Fee Kalculator.xml
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Kuidditch Referee Fee Kalculator\Kuidditch Referee Fee Kalculator\obj\Debug\Kuidditch Referee Fee Kalculator.vbprojAssemblyReference.cache
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Kuidditch Referee Fee Kalculator\Kuidditch Referee Fee Kalculator\obj\Debug\Kuidditch_Referee_Fee_Kalculator.frmKRFK.resources
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Kuidditch Referee Fee Kalculator\Kuidditch Referee Fee Kalculator\obj\Debug\Kuidditch_Referee_Fee_Kalculator.Resources.resources
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Kuidditch Referee Fee Kalculator\Kuidditch Referee Fee Kalculator\obj\Debug\Kuidditch Referee Fee Kalculator.vbproj.GenerateResource.cache
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Kuidditch Referee Fee Kalculator\Kuidditch Referee Fee Kalculator\obj\Debug\Kuidditch Referee Fee Kalculator.vbproj.CoreCompileInputs.cache
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Kuidditch Referee Fee Kalculator\Kuidditch Referee Fee Kalculator\obj\Debug\Kuidditch Referee Fee Kalculator.exe
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Kuidditch Referee Fee Kalculator\Kuidditch Referee Fee Kalculator\obj\Debug\Kuidditch Referee Fee Kalculator.xml
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Kuidditch Referee Fee Kalculator\Kuidditch Referee Fee Kalculator\obj\Debug\Kuidditch Referee Fee Kalculator.pdb

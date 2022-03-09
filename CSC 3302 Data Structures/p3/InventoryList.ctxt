@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=InventoryList
+comment1.params=v
+comment1.target=void\ insert(java.lang.Object)
+comment2.params=componentNum
+comment2.target=void\ delete(int)
+comment3.params=componentNum\ added
+comment3.target=void\ add(int,\ int)
+comment4.params=componentNum\ removed
+comment4.target=void\ remove(int,\ int)
+comment5.params=
+comment5.target=void\ output()
+numComments=6

@@ -1,0 +1,12 @@
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Guessing Game\Guessing Game\obj\Debug\Guessing Game.vbprojAssemblyReference.cache
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.frmGuessingGame.resources
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.Resources.resources
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Guessing Game\Guessing Game\obj\Debug\Guessing Game.vbproj.GenerateResource.cache
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Guessing Game\Guessing Game\obj\Debug\Guessing Game.vbproj.CoreCompileInputs.cache
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Guessing Game\Guessing Game\bin\Debug\Guessing Game.exe.config
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Guessing Game\Guessing Game\bin\Debug\Guessing Game.exe
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Guessing Game\Guessing Game\bin\Debug\Guessing Game.pdb
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Guessing Game\Guessing Game\bin\Debug\Guessing Game.xml
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Guessing Game\Guessing Game\obj\Debug\Guessing Game.exe
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Guessing Game\Guessing Game\obj\Debug\Guessing Game.xml
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Guessing Game\Guessing Game\obj\Debug\Guessing Game.pdb

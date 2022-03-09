@@ -1,0 +1,12 @@
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.exe.config
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.exe
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.pdb
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\bin\Debug\Health Club Membership Fee Calculator.xml
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\Debug\Health Club Membership Fee Calculator.vbprojAssemblyReference.cache
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\Debug\Health_Club_Membership_Fee_Calculator.frmHCMFC.resources
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\Debug\Health_Club_Membership_Fee_Calculator.Resources.resources
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\Debug\Health Club Membership Fee Calculator.vbproj.GenerateResource.cache
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\Debug\Health Club Membership Fee Calculator.vbproj.CoreCompileInputs.cache
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\Debug\Health Club Membership Fee Calculator.exe
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\Debug\Health Club Membership Fee Calculator.xml
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Health Club Membership Fee Calculator\Health Club Membership Fee Calculator\obj\Debug\Health Club Membership Fee Calculator.pdb

@@ -1,0 +1,12 @@
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Hello Worlds\Hello Worlds\bin\Debug\Hello Worlds.exe.config
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Hello Worlds\Hello Worlds\bin\Debug\Hello Worlds.exe
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Hello Worlds\Hello Worlds\bin\Debug\Hello Worlds.pdb
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Hello Worlds\Hello Worlds\bin\Debug\Hello Worlds.xml
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Hello Worlds\Hello Worlds\obj\Debug\Hello Worlds.vbprojAssemblyReference.cache
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Hello Worlds\Hello Worlds\obj\Debug\Hello_Worlds.Form1.resources
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Hello Worlds\Hello Worlds\obj\Debug\Hello_Worlds.Resources.resources
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Hello Worlds\Hello Worlds\obj\Debug\Hello Worlds.vbproj.GenerateResource.cache
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Hello Worlds\Hello Worlds\obj\Debug\Hello Worlds.vbproj.CoreCompileInputs.cache
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Hello Worlds\Hello Worlds\obj\Debug\Hello Worlds.exe
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Hello Worlds\Hello Worlds\obj\Debug\Hello Worlds.xml
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Hello Worlds\Hello Worlds\obj\Debug\Hello Worlds.pdb

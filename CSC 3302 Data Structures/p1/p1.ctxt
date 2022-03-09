@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=p1
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=hands
+comment2.target=java.lang.String[][]\ divide(java.lang.String[])
+comment3.params=hands
+comment3.target=java.lang.String[][][]\ divideAgain(java.lang.String[][])
+comment4.params=hands
+comment4.target=java.lang.String[][][]\ sort(java.lang.String[][][])
+numComments=5

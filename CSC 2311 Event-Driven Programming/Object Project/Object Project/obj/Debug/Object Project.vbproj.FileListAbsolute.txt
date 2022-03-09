@@ -1,0 +1,16 @@
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Object Project\Object Project\bin\Debug\Object Project.exe.config
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Object Project\Object Project\bin\Debug\Object Project.exe
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Object Project\Object Project\bin\Debug\Object Project.pdb
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Object Project\Object Project\bin\Debug\Object Project.xml
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Object Project\Object Project\obj\Debug\Object Project.vbprojAssemblyReference.cache
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Object Project\Object Project\obj\Debug\Object_Project.frmMain.resources
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Object Project\Object Project\obj\Debug\Object_Project.Resources.resources
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Object Project\Object Project\obj\Debug\Object Project.vbproj.GenerateResource.cache
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Object Project\Object Project\obj\Debug\Object Project.vbproj.CoreCompileInputs.cache
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Object Project\Object Project\obj\Debug\Object Project.exe
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Object Project\Object Project\obj\Debug\Object Project.xml
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Object Project\Object Project\obj\Debug\Object Project.pdb
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Object Project\Object Project\bin\Debug\PokemonClass.dll
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Object Project\Object Project\bin\Debug\PokemonClass.pdb
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Object Project\Object Project\bin\Debug\PokemonClass.xml
+E:\School\Comp Sci\CSC2311 Event-Driven Programming\Object Project\Object Project\obj\Debug\Object Project.vbproj.CopyComplete

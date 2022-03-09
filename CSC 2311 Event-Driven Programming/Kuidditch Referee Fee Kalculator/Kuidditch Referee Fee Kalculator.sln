@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Kuidditch Referee Fee Kalculator", "Kuidditch Referee Fee Kalculator\Kuidditch Referee Fee Kalculator.vbproj", "{B4AA86C2-5065-40BC-8403-AD5402A8FF04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4AA86C2-5065-40BC-8403-AD5402A8FF04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4AA86C2-5065-40BC-8403-AD5402A8FF04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4AA86C2-5065-40BC-8403-AD5402A8FF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4AA86C2-5065-40BC-8403-AD5402A8FF04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F5E038B-29CC-45B9-9198-46F281AF8584}
+	EndGlobalSection
+EndGlobal
